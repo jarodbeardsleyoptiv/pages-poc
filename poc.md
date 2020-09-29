@@ -30,8 +30,6 @@ print("Dunked and fried")
 7. Jeffrey
 8. **Lorde**
 
-'What is this?'
-
 
 For more details see [our Optum Github pages](https://jarodbeardsleyoptiv.github.io/pages-poc/).
 
@@ -41,5 +39,5 @@ _Moby eat your heart out_
 
 ### Little theme
 
-Nuggets
+`Nuggets`
 
