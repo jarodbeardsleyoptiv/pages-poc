@@ -9,6 +9,7 @@ This is my test! It's a poc you see
 
 ```markdown
 print("Dunked and fried")
+```
 
 # Header 1
 ## Header 2
