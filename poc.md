@@ -27,7 +27,7 @@ print("Dunked and fried")
 4. Charmaine
 5. Lucrezia
 6. Anna
-7. __Jeffrey__
+7. _Jeffrey_
 8. **Lorde**
 
 'What is this?'
