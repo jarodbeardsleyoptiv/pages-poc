@@ -27,7 +27,7 @@ print("Dunked and fried")
 4. Charmaine
 5. Lucrezia
 6. Anna
-7. _Jeffrey_
+7. Jeffrey
 8. **Lorde**
 
 'What is this?'
@@ -37,9 +37,9 @@ For more details see [our Optum Github pages](https://jarodbeardsleyoptiv.github
 
 ## Big theme
 
-Ian MacKaye eat your heart out
+_Moby eat your heart out_
 
 ### Little theme
 
-Ever north
+Nuggets
 
