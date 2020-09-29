@@ -11,10 +11,6 @@ This is my test! It's a poc you see
 print("Dunked and fried")
 ```
 
-# Header 1
-## Header 2
-### Header 3
-
 # List of Demands
 - chicken
 - chicken wings
@@ -39,11 +35,11 @@ print("Dunked and fried")
 
 For more details see [our Optum Github pages](https://jarodbeardsleyoptiv.github.io/pages-poc/).
 
-### Big theme
+## Big theme
 
 Ian MacKaye eat your heart out
 
-## Little theme
+### Little theme
 
 Ever north
 
